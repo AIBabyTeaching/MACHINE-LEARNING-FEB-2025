@@ -4,7 +4,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+machina_2025.pdf
 # C extensions
 *.so
 
