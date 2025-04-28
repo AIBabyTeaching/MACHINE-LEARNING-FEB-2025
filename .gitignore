@@ -7,7 +7,7 @@ __pycache__/
 machina_2025.pdf
 # C extensions
 *.so
-
+/Quiz7th
 # Distribution / packaging
 .Python
 build/
