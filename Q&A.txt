@@ -1,0 +1,16 @@
+- Laila: Coding
+    - Cross Validation?
+        - Pipeline: Ok
+
+- Miran: PCA?
+    - Eigenvalue
+        - Eigenvector
+
+- Hana: PCA:
+    - How to calculate Eigenvalue/Vector?
+
+- Ritaj: 
+    - Code
+
+- Youssef Tamer:
+    - Code
